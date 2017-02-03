@@ -1,7 +1,12 @@
 {
-  "name": "cucumber-html-report-omnimed",
+  "name": "cucumber-html-report-tmp",
   "version": "0.5.1",
   "description": "Convert cucumber json reports to a pretty html report.",
+  "author": {
+    "name": "Peter Leinonen",
+    "email": "peter@leinonen.se",
+    "url": "http://leinonen.se"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/NeWbLt123/cucumber-html-report.git"
